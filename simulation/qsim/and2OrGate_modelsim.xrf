@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Mustapha/Quartus Work/and2Or/and2OrGate.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/Mustapha/Quartus Work/and2Or/db/and2OrGate.cbx.xml
+design_name = hard_block
+design_name = and2OrGate
+instance = comp, \Output~output\, Output~output, and2OrGate, 1
+instance = comp, \input2~input\, input2~input, and2OrGate, 1
+instance = comp, \input1~input\, input1~input, and2OrGate, 1
+instance = comp, \Output~0\, Output~0, and2OrGate, 1
+instance = comp, \input3~input\, input3~input, and2OrGate, 1
+instance = comp, \input4~input\, input4~input, and2OrGate, 1

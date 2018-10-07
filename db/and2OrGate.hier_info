@@ -1,0 +1,8 @@
+|and2OrGate
+input1 => Output.IN0
+input2 => Output.IN1
+input3 => ~NO_FANOUT~
+input4 => ~NO_FANOUT~
+Output <= Output.DB_MAX_OUTPUT_PORT_TYPE
+
+
